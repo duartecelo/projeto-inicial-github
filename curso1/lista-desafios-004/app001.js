@@ -1,0 +1,1 @@
+console.log('Boas vindas! Se você está lendo aqui, é porque é muito curioso.');

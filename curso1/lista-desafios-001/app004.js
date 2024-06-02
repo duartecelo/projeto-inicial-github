@@ -1,0 +1,1 @@
+let numeroDeVendas = 50
